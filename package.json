@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Katreque/botkatreque#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
+    "obs-websocket-js": "^2.0.1",
     "tmi.js": "^1.4.2"
   }
 }
