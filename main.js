@@ -24,7 +24,7 @@ obs.connect({
   password: process.env.HOSTPW
 })
 .then(() => {
-  console.log(`Success! We're connected & authenticated.`);
+  console.log(`Conectado e pronto!`);
 })
 .catch((err) => {
   console.log(err);
